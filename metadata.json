@@ -1,0 +1,6 @@
+{
+  "name": "React Pacman",
+  "description": "A simple Pacman-style game built with React and Tailwind CSS. Control Pacman with the arrow keys to eat all the pellets while avoiding the ghosts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
